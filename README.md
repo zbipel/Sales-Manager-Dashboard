@@ -2,7 +2,7 @@
 
 <br>
 
-This is a project based on a scenario in which I received a request from Sales Manager of a Superstore to create report based on his needs.
+This is a project based on scenario in which I received a request from Sales Manager of a Superstore to create report based on his needs.
 
 ### Data Source
 
@@ -59,11 +59,25 @@ The Sales Manager has requested the development of an interactive dashboard to m
 
 <br>
 
-![Dashboard](Resources/Screenshots/dashboard_0.png)
+- For all stores:
+
+![Dashboard](Resources/Screenshots/dashboard_01.png)
+
+<br>
+
+- For Mandalay store:
 
 ![Dashboard](Resources/Screenshots/dashboard_1.png)
 
+<br>
+
+- For Naypyitaw store:
+
 ![Dashboard](Resources/Screenshots/dashboard_2.png)
+
+<br>
+
+- For Yangon store:
 
 ![Dashboard](Resources/Screenshots/dashboard_3.png)
 
